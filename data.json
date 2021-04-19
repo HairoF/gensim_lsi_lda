@@ -1,0 +1,2553 @@
+{
+    "unit": {
+        "title": "Курсы по теме \"Разработка\"",
+        "raw_title": "Курсы по теме \"{}\"",
+        "source_objects": [
+            {
+                "url": "/courses/development/",
+                "type": "category",
+                "title": "Разработка",
+                "description": null,
+                "id": 288
+            }
+        ],
+        "item_type": "course",
+        "items": [
+            {
+                "_class": "course",
+                "id": 1901422,
+                "title": "Полный курс по JavaScript + React - с нуля до результата",
+                "url": "/course/javascript_full/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 53491772,
+                        "url": "/user/yan-kovalenko-2/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/53491772_543b_4.jpg?zGQNi8z6ITYmSuReD3PJWbGkD_PbbT9x11Prq6XbkrBjJ0i0VMLLteFdQxGdeW7TYtHtDTHK8GIjJBt1DTGc9pDbTeTlKmRp_BH_5DcKSPCSf3j3FlfA2DsKBQXD",
+                        "display_name": "Иван Петриченко",
+                        "name": "Иван",
+                        "_class": "user",
+                        "job_title": "Front-End Development and Consulting",
+                        "initials": "",
+                        "title": "Иван Петриченко",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/53491772_543b_4.jpg?_-VSdM8h95jSq4LCJt2tyckgq7zbEAlElrJ0-iOZInwlFqz_SSdAaG6VwGxQijcef9v0HLsxHUnFPzXuXkxLxpb7d_TW1XJl7upRvcEiQT8Rjv3h86bWAOO-iYL8sn4"
+                    },
+                    {
+                        "id": 128105714,
+                        "url": "/user/ivan-petrichenko-3/",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/128105714_e8b7.jpg?secure=1a7V4JunCgSP-Gc_5e1AIQ%3D%3D%2C1618908274",
+                        "display_name": "Иван Петриченко",
+                        "name": "Иван",
+                        "_class": "user",
+                        "job_title": "Front-End Development and Consulting",
+                        "initials": "",
+                        "title": "Иван Петриченко",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/128105714_e8b7.jpg?secure=iayyyEWJHtZaaYnNh0Cypg%3D%3D%2C1618908274"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/1901422_8f67_5.jpg?JjnwLP3Z864PA4uSjs8ifACycJpytJjdd4eowxVz07oUHjg4htbmnq60R2dF6kJaJXN0aZVmOu6cyVEnOCsBCUS-fQMLT4ovfP6QwKgmcFoElx2uHbtrkwe3va2cwQ",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/1901422_8f67_5.jpg?HvFc4dVK25Mu2dlDUDHKKE4lfQa73Q7eW6tC3WVnN7H7xIbB3xu0VvAkOSa3gmLm5pXFZLdyygVmfYHuKXx61kcDcrPfeEQZTVT3WTkTLx4a5c6hgjZDyv_l4ApZTMIf",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/1901422_8f67_5.jpg?Fzky5RCAuiA8IVo3uw3mvvYx1Ea3jI5fn74yu9Ootoma2I40G94q2XAVR8cnvQICmxiESFQkv49d6NFR4yThDYVrlI8VklXpjr6ZzHlVJpB15uqXJej_NSGmGPyMcJAI",
+                "published_title": "javascript_full",
+                "tracking_id": "JngN4-whScaJPxTRLDxCAQ",
+                "headline": "Освой самый популярный язык программирования - JavaScript, библиотеку React и научись применять на практике!",
+                "num_subscribers": 21422,
+                "caption_locales": [],
+                "avg_rating": 4.7404785,
+                "avg_rating_recent": 4.7317686,
+                "rating": 4.7317686,
+                "num_reviews": 7849,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 124,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-b.udemycdn.com/course/50x50/1901422_8f67_5.jpg?secure=ZbqdDZctKQ5P8S9IEeylFA%3D%3D%2C1618908274",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/1901422_8f67_5.jpg?fLH7WxXDVOgqzgJjclWLf8TmkyHSlYyHJwSdhZ1SdVtZbH3mTbJrgTpxhN59Zhlyqc_lgeh2eiPUvN4198q9rAJJvkeg6fsXcwyvU2l2BGl8473CGBEkt4QU9gBRO1ji",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/1901422_8f67_5.jpg?VuWLLItMUKs9EBhsFV89OgZJDCq-8MEkY_1krug-fqLz8i48SrLLSeHFBLuVvGyB23HJ5jkEjcyoN5h6Yz8GWqYHITIHPrloE4F2lm7E2kpvXBEUPQ-49m-f1mgCHOrU",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/1901422_8f67_5.jpg?LyYjm-QTVjQ_20qoMZvQOUJMO5DJvqmNzBwqmr_XbZrfMf4rl_RM88Xt3aHhEwHJ019WNh8fZj7F93yvfqVaNgkRWjMty_W1iOryLF-ugVR-SFGl9_CUxuy-BRr62hvk",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2018-09-08T07:38:29Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-10-23T15:46:42Z",
+                "objectives_summary": [
+                    "Узнаешь основы программирования и алгоритмов",
+                    "Узнаешь основные концепции и принципы JavaScript, от самых простых до самых сложных",
+                    "Изучишь такие популярные технологии как AJAX, JSON и тд"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-03-22",
+                "preview_url": "/course/1901422/preview/",
+                "learn_url": "/course/javascript_full/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "41,5 total hours",
+                "content_info_short": "41,5 hours",
+                "bestseller_badge_content": {
+                    "id": "815e2c81148c48c284d4bf315c1caf8e",
+                    "context_info": {
+                        "subcategory": null,
+                        "label": null,
+                        "category": {
+                            "url": "/courses/development/",
+                            "tracking_object_type": "cat",
+                            "title": "Разработка",
+                            "id": 288
+                        }
+                    },
+                    "badge_family": "bestseller",
+                    "badge_text": "Лидер продаж",
+                    "_class": "ds_course_badge"
+                },
+                "badges": [
+                    {
+                        "_class": "ds_course_badge",
+                        "id": "815e2c81148c48c284d4bf315c1caf8e",
+                        "badge_text": "Лидер продаж",
+                        "badge_family": "bestseller",
+                        "context_info": {
+                            "subcategory": null,
+                            "label": null,
+                            "category": {
+                                "url": "/courses/development/",
+                                "tracking_object_type": "cat",
+                                "title": "Разработка",
+                                "id": 288
+                            }
+                        }
+                    }
+                ],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/javascript/",
+                        "topic_channel_url": "/topic/javascript/",
+                        "id": 6368,
+                        "display_name": "JavaScript",
+                        "tracking_object_type": "cl",
+                        "title": "JavaScript"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2280568,
+                "title": "Полное руководство по Python 3: от новичка до специалиста",
+                "url": "/course/bestpython/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 30142616,
+                        "url": "/user/eliasfofanovru/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/30142616_12b2.jpg?wkP-jTWt2NulEdRTA7OiF2Ac7nAN5CYQvp3vpt5Dlf8Tevb3Bww2FKzXnGMFxg_MB8l9yf26yW3c4E2W_SVNsx8QnQUcokEYE_t6mQZFt2uss7CBPP58zJhPMw",
+                        "display_name": "Илья Фофанов",
+                        "name": "Илья",
+                        "_class": "user",
+                        "job_title": "Инженер-программист, организитор митапов MskDotNet",
+                        "initials": "",
+                        "title": "Илья Фофанов",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/30142616_12b2.jpg?h7EmTgYjx58nSllwU_MsnzlL9qWk2-xq3uaBashb3VsNuy_A6AcAHJ9qSs7-6tk1mvEjANQYWK66_XIVcwaOJSQmR5issFBEmP_7NoqCGSLpl48iaL1hpec98t7U"
+                    },
+                    {
+                        "id": 100084786,
+                        "url": "/user/devschool/",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/100084786_c788.jpg?secure=7BIGLbsmGEmDDWznDj0SVg%3D%3D%2C1618908275",
+                        "display_name": "DevSchool • Progressive Training Solutions",
+                        "name": "DevSchool",
+                        "_class": "user",
+                        "job_title": "Best Courses in IT & Software Development",
+                        "initials": "D ",
+                        "title": "DevSchool • Progressive Training Solutions",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/100084786_c788.jpg?secure=UCwOH1dLPfN74I9F6HxueA%3D%3D%2C1618908275"
+                    }
+                ],
+                "image_125_H": "https://img-b.udemycdn.com/course/125_H/2280568_ac2f.jpg?secure=52JQ-BYcXRFhhMW8xaFHtA%3D%3D%2C1618908275",
+                "image_240x135": "https://img-b.udemycdn.com/course/240x135/2280568_ac2f.jpg?secure=wUej-zxJGbICAwgBXq2vFQ%3D%3D%2C1618908275",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/2280568_ac2f.jpg?Y4ALrzFSm8QNVvpJJLZ-dac1gi4mxGrH-o81Bqx83PvaxSFMIeaPyTUJschRdgPCMuxXgMQv-XD_ZlQsHQBdqD4StRQ0u30uPmy5Xu2vORW7jWtii_Axiwwx58c_XQ",
+                "published_title": "bestpython",
+                "tracking_id": "XNPXNPelR3yPx73pUzqb4w",
+                "headline": "Изучи Python 3 с нуля - один из самых популярных языков программирования в мире + Введение в SQL и PostgreSQL",
+                "num_subscribers": 15660,
+                "caption_locales": [],
+                "avg_rating": 4.494483,
+                "avg_rating_recent": 4.4883013,
+                "rating": 4.4883013,
+                "num_reviews": 5618,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 216,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/2280568_ac2f.jpg?i8yI2914d2lwOdExoMO5GYCnPo2so6HrmJPsiTAz4khFmV01EMZPt8sRLQG1NJyDkzsHRypD-BwOcs6GeZpLaT5ITzYgxUUnvKWPr9UaWwrIdnGr6hs2rSlUo60",
+                "image_100x100": "https://img-b.udemycdn.com/course/100x100/2280568_ac2f.jpg?secure=ZLcC8iNByR5xT6vNfP_ZrQ%3D%3D%2C1618908275",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/2280568_ac2f.jpg?MusashAr3-Q4drJ8cjVcI153Bn1j1MN3zcEyHXNGQ9UdsRG7x9GBz16gy14Au9JxduXsLaJuzVg6wHWgfMY5jnE0OqdZPLyYDayp3VKVTndS7WkaJ4vUSoFV89vf-A",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/2280568_ac2f.jpg?HYF9dRryvA9pw9QMyx43epX3z85AG132dMG9VlEWxelKLdr6llySqUFlakUltMwBBB5jneH-1AF1TLHtsU4LD_sJXN-3q2uVdzkvmhlsW03hWRzloxZ2ww913zmR_g",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2019-03-19T20:37:23Z",
+                "instructional_level": "Начальный уровень",
+                "instructional_level_simple": "Начальный",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-03-21T17:02:45Z",
+                "objectives_summary": [
+                    "Писать простые программы на Python 3",
+                    "Как писать простые игры типа крестиков-ноликов",
+                    "Логика с условиями и циклами"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-02-24",
+                "preview_url": "/course/2280568/preview/",
+                "learn_url": "/course/bestpython/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 39 ч",
+                "content_info_short": "39 ч",
+                "bestseller_badge_content": {
+                    "context_info": {
+                        "subcategory": null,
+                        "label": null,
+                        "category": {
+                            "url": "/courses/development/",
+                            "tracking_object_type": "cat",
+                            "title": "Разработка",
+                            "id": 288
+                        }
+                    },
+                    "badge_family": "bestseller",
+                    "_class": "ds_course_badge",
+                    "badge_text": "Лидер продаж",
+                    "id": "a3f2f5dc5930427d90938921276b65e4"
+                },
+                "badges": [
+                    {
+                        "_class": "ds_course_badge",
+                        "id": "a3f2f5dc5930427d90938921276b65e4",
+                        "badge_text": "Лидер продаж",
+                        "badge_family": "bestseller",
+                        "context_info": {
+                            "subcategory": null,
+                            "label": null,
+                            "category": {
+                                "url": "/courses/development/",
+                                "tracking_object_type": "cat",
+                                "title": "Разработка",
+                                "id": 288
+                            }
+                        }
+                    }
+                ],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/python/",
+                        "topic_channel_url": "/topic/python/",
+                        "id": 7380,
+                        "tracking_object_type": "cl",
+                        "display_name": "Python",
+                        "title": "Python"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2295431,
+                "title": "WEB-разработчик 2021",
+                "url": "/course/webdeveloper/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 53491772,
+                        "url": "/user/yan-kovalenko-2/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/53491772_543b_4.jpg?GyR533qhh6S-99XISWWmaqHS8VpJjYG-Cqzx6ra1NQw1N9V_l0krSTij8UjUKVXfsS-gbF3Fu9Qy5_VNop9bQi2UraHT3YCAavCZ8RBiyXbGjtJvKyFHXeKocnC3",
+                        "display_name": "Иван Петриченко",
+                        "name": "Иван",
+                        "_class": "user",
+                        "job_title": "Front-End Development and Consulting",
+                        "initials": "",
+                        "title": "Иван Петриченко",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/53491772_543b_4.jpg?gzdSG9FiTtW4t3-g3dMG2tdJNRfK9w0oV1xLDpqVMSGfba5npnonCbWdBtINi83RWt2IYJ_czAU3N9aDEVfszDpPoH3fEEjxyBek1Mwne__7PR_7qL3YNkjK4ZKEUWs"
+                    },
+                    {
+                        "id": 128105714,
+                        "url": "/user/ivan-petrichenko-3/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/128105714_e8b7.jpg?Zx2Lv0u8_tMZmRrVn9vbuodP9kfI1RVwUYk3cMB5RQbdWv0CIP7bYi8L4Q6TqVLJN6WeMVsFd1fz6q1GysSCAYrE14zLCMJTLcvpMGziTIk1NxUkvowdabGDU04",
+                        "display_name": "Иван Петриченко",
+                        "name": "Иван",
+                        "_class": "user",
+                        "job_title": "Front-End Development and Consulting",
+                        "initials": "",
+                        "title": "Иван Петриченко",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/128105714_e8b7.jpg?_mi7k2_KjsVJqmNUuf3JcGnWzwsYXXQJ_v_lNN1J_ft7LgklWgM5DRuIXmzpbPstJgU2lXXU5KW21TIzRHKQOQHdxFgFixVRdwBToQHCzXpQiMm2dHRkmMzgWW5IdA"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/2295431_6533.jpg?yFwclVIa0J-2joMTOe92sZDH8zvHnLMEakZajGo7dwLr8IQJwMl6g0rcedwpKE6f2vMm3wkWd0W0FSzUws9zP9caX2oIf3AcW8xVwR3YljF3-6mGH1vSl1vyT-U",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/2295431_6533.jpg?Mp08HyKf-Z0Hmd3u84QNFxObmv9PA8pvPNLfEbqddhTIGDCily9Msr3pn-0C9ohBidOR5AAOPZIW4On0tWcrfTpUtgM1UzwcccbQCBR0o-B1IboYau66ZdKaf1XE9Q",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/2295431_6533.jpg?JiGf7JgWQlucX_W9i1aRmI9sO4wwdZEXRWMXzCS5SUamm-gcXrKozKS5xDPbtA28IfCMrRnXlaVuq-mxPIutpyvwC8Opl5iILS5MmF1geTF_M5eektkwtt2V1rpITw",
+                "published_title": "webdeveloper",
+                "tracking_id": "Oerx6tF_S_G3dLzzt2SBsQ",
+                "headline": "Освой все, что необходимо для создания web-сайтов и начни зарабатывать на этом!",
+                "num_subscribers": 13252,
+                "caption_locales": [],
+                "avg_rating": 4.8299613,
+                "avg_rating_recent": 4.8245745,
+                "rating": 4.8245745,
+                "num_reviews": 5144,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 96,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/2295431_6533.jpg?BkVW4UkEvFO7prczQ1TN8pnQeXoCzbDUUw7sT6jV9LDO7FIdGukyXW60rEwOEe5_93bdZSFZDsjBkn7qrBWQg5ZuO5OKjwFmDNgvSGxJIYFhnvTG0U6TwwynSlU",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/2295431_6533.jpg?wr-X1gjUyDCJVfT6JFeObGPgWdT3S1Fh3xINKwHsQtfDw9qH-1SVdnIetpHks93CsCPvaDPF-XWWTwvIakT6gk-obWfgsbpQ4G7Eu0mLwRtWiM3Ty_9UlgWHuJXgHw",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/2295431_6533.jpg?6Ub8ofrtECBaX0qlEIuLMf8ab9CWQmVjsC2xw9p_d8w3WCP0EdZRbQl6M6EySIYxEv1JOq4dgQtINkOKPvsZEMJRm6kET-dFRP5iwFChoI4x9sxfx3cNuIcENGA-Jg",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/2295431_6533.jpg?a8N5o2qK2AOhKplJkx6xq7yYwcXpEBYeBReT91WyulbM1zt7-7lSLVyBUQcKVVWtd0EZwm8a1k0hL04UyqGS1bQBgRa-l_vsXpTBjHd7eCFChdPOzuXCyZc8srQo9Q",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "Russian",
+                    "locale": "ru_RU",
+                    "_class": "locale",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2019-03-28T11:36:52Z",
+                "instructional_level": "Начальный уровень",
+                "instructional_level_simple": "Начальный",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-06-09T16:50:25Z",
+                "objectives_summary": [
+                    "Узнаешь основы web-разработки: что такое web-сайт, зачем он нужен, циклы создания и многое другое",
+                    "Научишься работать с графическими редакторами в контексте верстки: Photoshop, Zeplin, Figma, Avocode...",
+                    "Научишься работать с графикой для web'a, в том числе с SVG"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-03-25",
+                "preview_url": "/course/2295431/preview/",
+                "learn_url": "/course/webdeveloper/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 33,5 ч",
+                "content_info_short": "33,5 ч",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "tracking_object_type": "cl",
+                        "topic_channel_url": "/topic/javascript/",
+                        "display_name": "JavaScript",
+                        "id": 6368,
+                        "url": "/topic/javascript/",
+                        "title": "JavaScript"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1815456,
+                "title": "React + Redux - Профессиональная Разработка",
+                "url": "/course/pro-react-redux/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 9530604,
+                        "url": "/user/juriybura/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/9530604_f024.jpg?zq-r16cWqbDbyMo2DCm2uQo_hRWt7mByQz3q6Ldy8PfeaD0gcbxtNHBwOsH1U-F5pxSDxj1vG-KO7A0KekZ0M6K_HuVfnRn-MdlE1lSOE65UQTmNZzIDAtmk",
+                        "display_name": "Juriy Bura",
+                        "name": "Juriy",
+                        "_class": "user",
+                        "job_title": "Solution Architect | Автор книг по JavaScript | Автор курсов",
+                        "initials": "JB",
+                        "title": "Juriy Bura",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/9530604_f024.jpg?secure=-tQMnfN76AavFitFqV-1rw%3D%3D%2C1618908274"
+                    }
+                ],
+                "image_125_H": "https://img-b.udemycdn.com/course/125_H/1815456_2ee9.jpg?secure=CVkN24TUBpCktonaVOZRig%3D%3D%2C1618908274",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/1815456_2ee9.jpg?6d_AYf7wf_6xz_w_weXIw05KmyTQCeTg5CI6y5mhMuTvAatl1AriHdIl_Po71m8w6T4jHHap4Rk1xXH36v3iIc9db9I7xBhdoiLuXTwtWEwQsFkYc0N1NH3J7Kfhww",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/1815456_2ee9.jpg?2pFbSTc3XUGpd-npf0KnxykwXk6mhottPQ_c6y2Qs5UmFqXmQTcY175Bj5YuZxsJMLxdc2V5VmUwW22KBgp9LL4OU0mZbY4mDXqkb-zlA5ghIGYQHHy2KRRmS3o36Q",
+                "published_title": "pro-react-redux",
+                "tracking_id": "MSvlco-kTvqp3w4OnaNGYw",
+                "headline": "Практическая разработка коммерческих React приложений",
+                "num_subscribers": 7948,
+                "caption_locales": [],
+                "avg_rating": 4.774436,
+                "avg_rating_recent": 4.7603,
+                "rating": 4.7603,
+                "num_reviews": 3152,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 180,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/1815456_2ee9.jpg?qB6-JAdFf3feCdXqG52nQ88aRrnpGGEiQBpPtE1rZ29zRg2kgTno1gVtSLeNRZOATtJB9BBznzDoy-4okgYq_F4YCUZhbYYuLFU5-gFf7LIBIwEHY98MUuvoNK8",
+                "image_100x100": "https://img-b.udemycdn.com/course/100x100/1815456_2ee9.jpg?secure=s5cCf8VHMDgJ00EzYgrKRA%3D%3D%2C1618908274",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/1815456_2ee9.jpg?zkIxIlrnm0Ad_aHiXnvEwul9mushX7SQeyUZkxL_0l84ifxolRgtel-lW6jkYpLO51ZjfmCKtCWe51zgH0jqzD7zgJbymqxrg6XIFiglFdz3MGXLNnEKLwJ_dc5A4Q",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/1815456_2ee9.jpg?vXKpCDRcWVrffNijSN7KTVy58bC_UXosJCsUjipNUm-5-USarqgLO1aQ_aLjgbbjSv37qHnt8lZmgp6SrItp_Ty2xqNT7CRYDSqFBb6DA4JagiM8TlH3_88MurDwBw",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2018-07-23T17:52:56Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-09-18T17:56:05Z",
+                "objectives_summary": [
+                    "Использовать React для создания современных front-end приложений",
+                    "Использовать Redux для управления состоянием приложения",
+                    "Использовать REST API для доступа к данным на сервере"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2020-04-18",
+                "preview_url": "/course/1815456/preview/",
+                "learn_url": "/course/pro-react-redux/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 22 ч",
+                "content_info_short": "22 ч",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/react/",
+                        "topic_channel_url": "/topic/react/",
+                        "display_name": "React",
+                        "id": 7450,
+                        "tracking_object_type": "cl",
+                        "title": "React"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1286174,
+                "title": "Продвинутая Java",
+                "url": "/course/javarussia/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 33857854,
+                        "url": "/user/nail-alishev/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/33857854_ffc4_4.jpg?jo8MPgZeGvWfoTn4y4kN1NKlVLP4mOMAl7_seFYZINfNydZMTtvQ3vRyljmtO8n9oIeFbK8nOVtsHVjBrZIslpyC57oX7FbrRG2LutDdCVXgaJ94AyVo_2l7opmZ",
+                        "display_name": "Наиль Алишев",
+                        "name": "Наиль",
+                        "_class": "user",
+                        "job_title": "Опытный разработчик",
+                        "initials": "",
+                        "title": "Наиль Алишев",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/33857854_ffc4_4.jpg?secure=I46ZtyIgpkcbZcw8clki-w%3D%3D%2C1618908275"
+                    }
+                ],
+                "image_125_H": "https://img-b.udemycdn.com/course/125_H/1286174_1efc_9.jpg?secure=0n_vy8MzqZRrdOD3QMRtNA%3D%3D%2C1618908275",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/1286174_1efc_9.jpg?BhLllImYrBNlDhFvc0o1eFwi-v02XDwkPaafmhqrhUz8oY-g6ID4MXE3x_UcgveUko1QZ6m1Xx13DGUNJ_dWkDY1CHgJz7ZJ1sSB3nuq4D5IKWXctKyyIpIq539T2f46",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-b.udemycdn.com/course/480x270/1286174_1efc_9.jpg?secure=FMmeXeGYMkzNsHd19ZQ25A%3D%3D%2C1618908275",
+                "published_title": "javarussia",
+                "tracking_id": "7wpiPVUvQkCUmSyWqY4XYg",
+                "headline": "Изучите Java на профессиональном уровне",
+                "num_subscribers": 4620,
+                "caption_locales": [],
+                "avg_rating": 4.7227488,
+                "avg_rating_recent": 4.729279,
+                "rating": 4.729279,
+                "num_reviews": 2044,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 44,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/1286174_1efc_9.jpg?PI6xIPJXlUWssKVCRAJLhPmGelqU58O6gd6YXXdAW3mVftb0kP32xn5lcTJMtk1sTFKPgsm1mYfZK3z5_wzPWd_W4rLNs-F6MLJXSwQ1ATNjW21gCSjQoMPAEQ1rUw",
+                "image_100x100": "https://img-b.udemycdn.com/course/100x100/1286174_1efc_9.jpg?secure=oLL_g6g10glrRxwUH5-nEw%3D%3D%2C1618908275",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/1286174_1efc_9.jpg?QVTvIIY2mU9T9QRSBzVlM6Lh9FY1hxTk3Q_yzNWRfKq3V0EnfUKd74A3InGtcTIC2c-eyQGuKG7YyMsNsd6vMNPwedwfCQrTo-xEEQ08RHHtyU9i-E_zM-GwIIfWiaw7",
+                "image_750x422": "https://img-b.udemycdn.com/course/750x422/1286174_1efc_9.jpg?secure=3szqxdOi7__SnmjelTKYmw%3D%3D%2C1618908275",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2017-07-10T10:05:35Z",
+                "instructional_level": "Средний уровень",
+                "instructional_level_simple": "Средний",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-01-15T04:22:10Z",
+                "objectives_summary": [
+                    "Java Collections (Коллекции)",
+                    "Java Multithreading (Многопоточность)",
+                    "Регулярные выражения (Regular expressions)"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2019-06-25",
+                "preview_url": "/course/1286174/preview/",
+                "learn_url": "/course/javarussia/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 13,5 ч",
+                "content_info_short": "13,5 ч",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/java/",
+                        "topic_channel_url": "/topic/java/",
+                        "id": 6336,
+                        "tracking_object_type": "cl",
+                        "display_name": "Java",
+                        "title": "Java"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1998388,
+                "title": "Java (Джава) для начинающих: с нуля до сертификата Oracle",
+                "url": "/course/java-oca-oracle/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 23075218,
+                        "url": "/user/zaur-tregulov/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/23075218_ada5_2.jpg?PzILQXjh3J5IfBzEAWFWuxDbhKT-XRH68Q_zncBbfX4HLSOCgts8jOz_83j1qUUKHPik0bpsSmG_LJCsKX_Qb3jpE_TH-BoM6qZFmdJsCQPbKaHYQEoGg_JlVHNb",
+                        "display_name": "Zaur Tregulov",
+                        "name": "Zaur",
+                        "_class": "user",
+                        "job_title": "Java",
+                        "initials": "ZT",
+                        "title": "Zaur Tregulov",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/23075218_ada5_2.jpg?secure=RioBHN50jXdf80IMoaRzHQ%3D%3D%2C1618908275"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/1998388_de6b_2.jpg?xefFzd7PioUC0NLLxuA8kiOPRsrPzWbA808d2ku-gJXKgY2hlnpzxUbU2XHxBw0EGja3GEfPurT1UEyaaK2PYPUH80r9orMLA_NPcfiXlQkvrx2ojefWVBhqUCGpHg",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/1998388_de6b_2.jpg?g1eTYmptcZ4KF0g0D4ThZgPd7o_zAVwrx81bShYI2bE5NB57RFvmeFm_DqRJeqJJlXHFCM3ZBXiTJPuYf3ljv4sbuMPMBJ65Z6FtfK1G6KEtyb9LCnK32cYrntlCvEEm",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-b.udemycdn.com/course/480x270/1998388_de6b_2.jpg?secure=iG_Rzd3ySa6GbrgiUf10PQ%3D%3D%2C1618908275",
+                "published_title": "java-oca-oracle",
+                "tracking_id": "sRQ4dLFkRfK7aGepsJSVsQ",
+                "headline": "Изучение Java на простых примерах для новичков. Теория, практика, домашние задания и их разборы.",
+                "num_subscribers": 7068,
+                "caption_locales": [],
+                "avg_rating": 4.834375,
+                "avg_rating_recent": 4.8290668,
+                "rating": 4.8290668,
+                "num_reviews": 1977,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 40,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/1998388_de6b_2.jpg?JsVUuJWSss1yy8dnKS-7Cdg89vY0S3OTQ435fuw9s4QZ5ikIzHGmO6XqqsOHCIRjiw0BeNGIhqAdDeFUsT3-o7A172NjyzzysZrOxOWHaucKwMRwXLjZurCxPUGH0w",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/1998388_de6b_2.jpg?l_sPxArHux0ANz2mZwWJ5x2TZDLoIfdVJprWmCarI327hBievg-IhV1dKAP328J0AMW6K3gRI7LJyhTi7JwfcHnF85kw9czYPdNL2g0ZXXZpk0WD0D2FoTsfft72NKF0",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/1998388_de6b_2.jpg?bKznJaYv9KlBV4fXOI4pFT9ohgLlBMNsX2bMKLm6g3ahkTpY4g0twYxJqFJEo5ubOHkebyAhisz2sTu1CiC2seEhOxZBtOSbifksv-IblsdosgyX1DnZBx-mwVafvY9T",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/1998388_de6b_2.jpg?qBAdfbjUcP0OXFH9yKWSkpM67sRFHwHn7HBj6BuvUmFm93yRr4_mci4KyFeUVhcL3zX66_t7sZHZb5NWTCr_Klr10c3E3VkY5l4LTlPucVEDaOwIVoFnrMBxxCichHR3",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2018-10-30T19:16:35Z",
+                "instructional_level": "Начальный уровень",
+                "instructional_level_simple": "Начальный",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-11-17T20:17:58Z",
+                "objectives_summary": [
+                    "Вы шаг за шагом детально изучите 52 основные темы языка Java",
+                    "Полностью подготовитесь к экзамену Java Programmer I от Oracle",
+                    "Научитесь писать программы различной сложности"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2019-09-16",
+                "preview_url": "/course/1998388/preview/",
+                "learn_url": "/course/java-oca-oracle/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 47,5 ч",
+                "content_info_short": "47,5 ч",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/java/",
+                        "topic_channel_url": "/topic/java/",
+                        "id": 6336,
+                        "tracking_object_type": "cl",
+                        "display_name": "Java",
+                        "title": "Java"
+                    },
+                    "category": {
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat",
+                        "title": "ИТ и ПО",
+                        "id": 294
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2486704,
+                "title": "Angular 9. Теория и Практика 2020. Все включено + Бонусы",
+                "url": "/course/angular-complete-guide/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 26838796,
+                        "display_name": "Владилен Минин",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/26838796_5c87_3.jpg?N_tTrCl0qRHMsRFenchDEhZ0b_US02Bkn59w7WXkh_3t4E1M4EixVW0y3j2nKKp0qLyqTmvGttlU1Szg4CSTiRECeQqfdYIFKxX0sBuLWQTukQb_XB_84Yn3pZsM",
+                        "url": "/user/vladilen/",
+                        "name": "Владилен",
+                        "_class": "user",
+                        "job_title": "Профессиональный Frontend разработчик и преподаватель",
+                        "initials": "",
+                        "title": "Владилен Минин",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/26838796_5c87_3.jpg?ebRUMuIYdyioLJUqRYASGO4XWxojwMuTzuevXfDCIif6NxZUiSL9FUSIXfkJ6fiM1dXtwR_6nXW2o3XWKiVjCSwgKUtr8h-NLC8w1BreDmVniB0chPLMcPJXBveCtMk"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/2486704_64d0.jpg?mYvGP86dXxtNiHroVpLtXqe9u5ha-mGBKLthwbk-gc6Br_P0moRX2NqV4ZoZIjS1HyBTSHeaOOzam8Or3-3MThAErLlCoim1DgRvuURNBcUziWzxVh4Io_J8U1Q",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/2486704_64d0.jpg?7S9-SAHIpgDfYAkWgv9gl3IysycMd3tFRlHpM0rhwE6fYzdcomWRvbVWkeonq9ZbDK8ZNRwJYdbWHaMpjhbZq_f-1VrUVjB3pu69FQ0gKID3PoPoUM5RxgYQh-PCzw",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-b.udemycdn.com/course/480x270/2486704_64d0.jpg?secure=twCkznCQ1EU6JBIJGn4zpA%3D%3D%2C1618877269",
+                "published_title": "angular-complete-guide",
+                "tracking_id": "DUpWI3EsT4Oa4OTUdpLvIA",
+                "headline": "Полное руководство для разработки крутейших динамических приложений.  От глубокой теории до практики на Angular",
+                "num_subscribers": 4510,
+                "caption_locales": [],
+                "avg_rating": 4.7342105,
+                "avg_rating_recent": 4.7430305,
+                "rating": 4.7430305,
+                "num_reviews": 1886,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 169,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-b.udemycdn.com/course/50x50/2486704_64d0.jpg?secure=Mm6ALb_Q2dXUhELwtmrV1A%3D%3D%2C1618877269",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/2486704_64d0.jpg?tBt2XhJGMrhtn0XxTFvzXACZy0FbDphdr1Krm-2WIoLJ3IkPwVFmZln4Bz6eVWao7dPcFEkoW0BDcolDC1RH7gNercD4MPEHne6Omi3pXatZI99rxbE_IRN_FzaLjQ",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/2486704_64d0.jpg?ZyWO-KZmnEo3VYaVX21ga5CFltz7FTGqAY45SGPiOMX6TQYusPngdUoPmKnoAOQ21blqyEw11_lGhgh7oa6b7cvrldaG84T7ecgpP7D2GJO_11n5OPvMGtN_Eqg9TQ",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/2486704_64d0.jpg?j3zVG4Ft8hfMKa1b2GVEuP3n-3fXjYO9RBOtfts4w4NTC8m1FMr3UDnIy5MpnzbOsS11Y5Xeovw07aKQn4FnDcqeY8SsQAPfYrfuuE4YkbBiLDkUyuzuYRVIGOdIXQ",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "Russian",
+                    "locale": "ru_RU",
+                    "_class": "locale",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2019-07-31T11:56:53Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-08-13T19:12:22Z",
+                "objectives_summary": [
+                    "Разрабатывать мощные, масштабируемые, реактивные приложения с Angular 8 +",
+                    "Узнаете про самые важные и необходимые функции фреймворка на основе многолетнего опыта его использования",
+                    "Получите полное понимание того, как Angular работает в деталях и научитесь их использовать"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2020-02-21",
+                "preview_url": "/course/2486704/preview/",
+                "learn_url": "/course/angular-complete-guide/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 17,5 ч",
+                "content_info_short": "17,5 ч",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/angular/",
+                        "topic_channel_url": "/topic/angular/",
+                        "display_name": "Angular",
+                        "id": 28016,
+                        "tracking_object_type": "cl",
+                        "title": "Angular"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2450640,
+                "title": "Python разработка - с нуля до профессионала. Python 3",
+                "url": "/course/python-python-3/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 27030988,
+                        "url": "/user/u_ra/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27030988_ccd9.jpg?gPpEUPrRXBHLu-04-XCQm57Q9iRwVcFHvLBhl09iQ7HixteOfxgOMxMJYRzenj_CbkDW9JucPmn_DDkMkMVDte2kSseMreYY_fVkOGlvHgwSydiJ2QAOR7i7pA",
+                        "display_name": "YouRa Allakhverdov",
+                        "name": "YouRa",
+                        "_class": "user",
+                        "job_title": "Mobile & Web developer",
+                        "initials": "YA",
+                        "title": "YouRa Allakhverdov",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27030988_ccd9.jpg?uYZ3dQMD6bwSTUKb-RW1L89EI12ZA-uX_ywQ4YSbz6Imjg87MXq38G5T7p70I2ky0cKoVCudcpeDscu-sO500AxeYkSXN83_kz5-VODoYuwdfuJhErxULFJlCUlC"
+                    }
+                ],
+                "image_125_H": "https://img-b.udemycdn.com/course/125_H/2450640_8d11_6.jpg?secure=dZbt_sldXsibstXYVYnp_w%3D%3D%2C1618904119",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/2450640_8d11_6.jpg?0byrdWt57Cn-97Y3_3yGQo-VHylAtiJWmURaBBaDDGm23WvcyKS8CGUpfWguEVO3-j8DZ3yKCnLsKmLFO_1WKxC8kAAmmZpM05Ua2kuD3yr9z9p-J4_nXQS8xlKPV_oi",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/2450640_8d11_6.jpg?kdHPZ1BOpt4KQ-c_vLDVam53qwz1rd-FJD8U1oAcOHDt4VWoXBjS2Xfw-TIFAS7d-3cAgp1TykZgoY0luwUOosWY5OLdyarKiEsbDzw0GgktO4X7euZT7ZlstbQMrFCM",
+                "published_title": "python-python-3",
+                "tracking_id": "m0zhpu8dS26kVzvX5rTpVQ",
+                "headline": "Доступно и просто для новичков. Начните с основ и пройдите весь путь до создания собственных приложений!",
+                "num_subscribers": 6582,
+                "caption_locales": [],
+                "avg_rating": 4.5719843,
+                "avg_rating_recent": 4.540626,
+                "rating": 4.540626,
+                "num_reviews": 1707,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 164,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/2450640_8d11_6.jpg?poXIwHo2kSwbeGGMWfhDVNDZRph9EDHoYX_J2ZDaw6mL2eMXlxq7Agv3lFbYfS0GLBngRfwkedgRqr_WdLMj48XNkiQxEt1PrM79NJ60s4UgYVnIl2Wv6eHe5QigAA",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/2450640_8d11_6.jpg?c-F6sCsDYgb4LpQqDn1buMDI3SHko3ELUF7krdw_1_hYe6T6lKu4OV6sCRaud0iab6FDj174tWMgbkyujIHarIPJLDJhLo5yZFqCHpHylzmzEbetOIhYpx1OnAPb_Fxn",
+                "image_304x171": "https://img-b.udemycdn.com/course/304x171/2450640_8d11_6.jpg?secure=I1P8aOY2fxbMgpvxPVDFVQ%3D%3D%2C1618904119",
+                "image_750x422": "https://img-b.udemycdn.com/course/750x422/2450640_8d11_6.jpg?secure=_3tbic8afAZGFgbJ7y_wbQ%3D%3D%2C1618904119",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2019-07-09T09:01:47Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-08-06T15:27:03Z",
+                "objectives_summary": [
+                    "Получите фундаментальное понимание языка программирования Python",
+                    "Получите навыки Python по объектно-ориентированному программированию (ООП) в свое резюме",
+                    "Поймёте сложные темы, как декораторы, timestamp и др."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-04-17",
+                "preview_url": "/course/2450640/preview/",
+                "learn_url": "/course/python-python-3/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "30,5 total hours",
+                "content_info_short": "30,5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/python/",
+                        "topic_channel_url": "/topic/python/",
+                        "id": 7380,
+                        "display_name": "Python",
+                        "tracking_object_type": "cl",
+                        "title": "Python"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2708348,
+                "title": "React JS. Практический Курс 2020 (вкл. Хуки, Классы, Redux)",
+                "url": "/course/react-2020-complete-guide/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 26838796,
+                        "display_name": "Владилен Минин",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/26838796_5c87_3.jpg?wddVDfkHPAiQTmhTc3A0xVEsphCZlci_7KFQvCR_IRWuqQiUpEblWPBBp_XjQIMRE1a7vjdnkYx0z2kajnR659ErVegHrId6EDREt2gN-HPrIVX-TOxJVwaLQGpv",
+                        "url": "/user/vladilen/",
+                        "name": "Владилен",
+                        "_class": "user",
+                        "job_title": "Профессиональный Frontend разработчик и преподаватель",
+                        "initials": "",
+                        "title": "Владилен Минин",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/26838796_5c87_3.jpg?RPwlmDV5XRnO2Y_vbymILjWCwJnz2W38p33bI_p0RZalzsX1y-K0VNvbhWN61ZHirKGRKVguHMdUXDeLcghDU6JlyVK5lXyK-5tShLr0yok7yY-nu38u_9hswjyp0Mg"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/2708348_f7c9.jpg?1b12Lbz1QLkc3EyS6bqcqoOhxVRdDRi3e2qYrkf4R8l6Odg6KdZyt3VW3hLASrJAIS9bq5I4Y70h0Z4S9-qPcatiV9YHsSYgv15bFqezg78gTOJPVgRUa-wsCfw",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/2708348_f7c9.jpg?dJ5NTXiDX4ecTMEffaMPR5fT1ooRB2UDmyL_R2FGpGwhD8fYtZQf7t3qOnPXuS892SzQzLvXRLGlvzU880iBBcVp30LE-n3QkFn1Bj3FKV_EQi6DX4EMKrxV1EV0DQ",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-b.udemycdn.com/course/480x270/2708348_f7c9.jpg?secure=UCMBiWVYd2VPEtk3kB97Ug%3D%3D%2C1618885632",
+                "published_title": "react-2020-complete-guide",
+                "tracking_id": "YZkVckj1RD6fpxf6ZQirVQ",
+                "headline": "Все, что нужно знать про React. Научись с нуля создавать крутые приложения на самой популярной Frontend технологии!",
+                "num_subscribers": 4074,
+                "caption_locales": [],
+                "avg_rating": 4.533186,
+                "avg_rating_recent": 4.5393734,
+                "rating": 4.5393734,
+                "num_reviews": 1563,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 143,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/2708348_f7c9.jpg?sZYJnYRYtH2Pu9w3Ux1G2NBw2ajxuvaUpbsLUFWb5V1f43IQCkqdbkeq7sPUc6LSwyH9y0B7hn_csBhld6XOWFQuqRG10d_MnCyxodAIVvF2o-M-kxlepGmfVfE",
+                "image_100x100": "https://img-b.udemycdn.com/course/100x100/2708348_f7c9.jpg?secure=aSQcJeG93Tf77cgrTSTwIQ%3D%3D%2C1618885632",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/2708348_f7c9.jpg?LNMLj1IJyIPWCHuWhSHqjN0CXtZclv8V_D4i9_iphCf_slaGNThBaPIT-dnQwkT5dI2db6NG-1owN6zKcPyna-8x7sJKEhNLfh9P5JIqLpnRogxJlfPxocEqD8yPQA",
+                "image_750x422": "https://img-b.udemycdn.com/course/750x422/2708348_f7c9.jpg?secure=O6f0-XoaklPi6cB83aHhaQ%3D%3D%2C1618885632",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2019-12-16T16:05:33Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-12-31T20:41:33Z",
+                "objectives_summary": [
+                    "Фундаментальная теория. Вы получите исчерпывающую теорию по React, к которой сможете возвращаться при необходимости. Здесь собрано все, что только может понабиться при разработке с React.",
+                    "Море практики. В практической части показано создание с нуля полностью рабочего современного приложения, основанного на самых передовых технологиях. На основе этих составляющих можно создать приложение практически любого функционала",
+                    "Актуальная технология. По итогам курса вы создадите Serverless Single Page Application на material design с Firebase – один из главных трендов."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2020-08-23",
+                "preview_url": "/course/2708348/preview/",
+                "learn_url": "/course/react-2020-complete-guide/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 18,5 ч",
+                "content_info_short": "18,5 ч",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "display_name": "React",
+                        "topic_channel_url": "/topic/react/",
+                        "id": 7450,
+                        "tracking_object_type": "cl",
+                        "url": "/topic/react/",
+                        "title": "React"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1880034,
+                "title": "Android разработка - с нуля до профессионала. Полный курс",
+                "url": "/course/android-kak-po-notam-a/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 27030988,
+                        "url": "/user/u_ra/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27030988_ccd9.jpg?tCHTM_wJrJKFGzndEIEpg-vBmyktNnQinsycrHnJxFtFdypRXzeEII5-JfH5TMUuAYG4R_zsb2UAN5dvjTSwpOuTA6iZzL4fN1Q2Ly3h3UeMgA8xbpWduR2uWg",
+                        "display_name": "YouRa Allakhverdov",
+                        "name": "YouRa",
+                        "_class": "user",
+                        "job_title": "Mobile & Web developer",
+                        "initials": "YA",
+                        "title": "YouRa Allakhverdov",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27030988_ccd9.jpg?Ht_i0Sh-VouMzmbvLm86w_-cT3zkvcSxz8Wm99F7lQ-K8GY9dcVxgQ5AYiu86Sf0egeYlA3T4O7_Q6DxwxQTHggpuU3XhTClo4zbs6TXxcevz0rdTtw_xZcj6gzL"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/1880034_31d0_3.jpg?wByE8vYfACzYH9xYB-vfScGdYtzVCoa2pCuXaaXbnykI0qEomxDsUa12zNi7AOG29DcooP0imIxoJ5915KHc4nMjO8pWhDZNMdMPwmceT5r1cs3QJnqYyBlPADkGhA",
+                "image_240x135": "https://img-b.udemycdn.com/course/240x135/1880034_31d0_3.jpg?secure=52cDHzEL2NDISRjfi2_rYQ%3D%3D%2C1618908275",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-b.udemycdn.com/course/480x270/1880034_31d0_3.jpg?secure=Y1EqFVIV4eLDwYi1_dCdqA%3D%3D%2C1618908275",
+                "published_title": "android-kak-po-notam-a",
+                "tracking_id": "XfJlJZBST-apAU8FSGNqlQ",
+                "headline": "Android, основы Java, Kotlin. Создай 21 приложение, включая Firebase real-time чат и приложение заказа такси!",
+                "num_subscribers": 7147,
+                "caption_locales": [],
+                "avg_rating": 4.5,
+                "avg_rating_recent": 4.5051746,
+                "rating": 4.5051746,
+                "num_reviews": 1395,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 287,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/1880034_31d0_3.jpg?k6vEGTSlGY47fjQWB6zZFrbfix-VVfRKkOhOGMXHEofK55PEM3m81OMrTxvooMTlKWazw86kwlePJHXenK6789MpcykBxbZXwVpOdbzxqWaq5Jm7ADv01jkfmb0HWg",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/1880034_31d0_3.jpg?aeQdIb_hVHQGY0Whj48mtpWEpgJqHbJW1qFdl7Rg4RHt0907EaJT_b1z4n89vjK8ASf9TpMgW45PnbNi6BeTX27_GiUoSJfO3eJ7TSRzdECoF_Y3u0tL2FRfi3QAQ_Eo",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/1880034_31d0_3.jpg?SQwnPrW3qJsFIhPu_GH-OA-RbhWuMOYF8rKMIFzHgg86g5R7y_g5xUJ6swxICTbWhyZi_2vIHih0mtef-c1dcAu2G6zKD5_rNQhqLc2Ny5QBSuuBdJZqIcQjaRO38RSW",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/1880034_31d0_3.jpg?bwEyiaYQuzIHxnGk0MnbZcbr2wqvAUuNrKQkaa01riIwnrrVK4DFXrIMM03oa403QMziNV5EqZpn_LsFbaOLAy0G8tSg6Ew8JnSRYZ1ewC3zRThUyXGYLQPpeVN8eiRP",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2018-08-27T18:13:02Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-09-14T12:35:40Z",
+                "objectives_summary": [
+                    "Вы научитесь разрабатывать XML разметку и UI андроид приложений",
+                    "Вы изучите основы Java, и также более продвинутые темы, включая ООП",
+                    "Вы научитесь работать с аудио, видео и изображениями"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-03-14",
+                "preview_url": "/course/1880034/preview/",
+                "learn_url": "/course/android-kak-po-notam-a/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 41 ч",
+                "content_info_short": "41 ч",
+                "bestseller_badge_content": {
+                    "context_info": {
+                        "subcategory": null,
+                        "label": null,
+                        "category": {
+                            "url": "/courses/development/",
+                            "tracking_object_type": "cat",
+                            "title": "Разработка",
+                            "id": 288
+                        }
+                    },
+                    "badge_family": "bestseller",
+                    "_class": "ds_course_badge",
+                    "badge_text": "Лидер продаж",
+                    "id": "747b69dcf40a41bfa0941ccb5b9edd3c"
+                },
+                "badges": [
+                    {
+                        "_class": "ds_course_badge",
+                        "id": "747b69dcf40a41bfa0941ccb5b9edd3c",
+                        "badge_text": "Лидер продаж",
+                        "badge_family": "bestseller",
+                        "context_info": {
+                            "subcategory": null,
+                            "label": null,
+                            "category": {
+                                "url": "/courses/development/",
+                                "tracking_object_type": "cat",
+                                "title": "Разработка",
+                                "id": 288
+                            }
+                        }
+                    }
+                ],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/android-development/",
+                        "topic_channel_url": "/topic/android-development/",
+                        "display_name": "Разработка под Android",
+                        "id": 4470,
+                        "tracking_object_type": "cl",
+                        "title": "Разработка под Android"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 600864,
+                "title": "Изучите HTML и CSS за несколько часов",
+                "url": "/course/html-css-course/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 6607464,
+                        "url": "/user/31513/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/6607464_c1d6.jpg?Bn_ewoFZbPi-uQHzeuTKPf5NmlgJ2lYDKJW-rqTsq0xu_FNiAesM9GVbU2QJAaQUHdeSd6japCwa4rGgzP37XFUjW0p_4oIZ3pSnAQZ2oLaEwU6LiC5uomRa",
+                        "display_name": "Sergey Nikonov",
+                        "name": "Sergey",
+                        "_class": "user",
+                        "job_title": "Senior web-developer",
+                        "initials": "SN",
+                        "title": "Sergey Nikonov",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/6607464_c1d6.jpg?secure=_EX5w9idHL2YTc1R5KvP1w%3D%3D%2C1618915620"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/600864_c561_3.jpg?OxbY1fZnNXFQGHo3NOBgbVzb8TJabarRrlBafAlsuKqJ9MrKcjCxSWFClVj7FWXZzwFhyLvdlYDEbIQ9SoN3_l02BAERuWX5kUDVxkj0iRN-fkZP7TB0gewBLBpV",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/600864_c561_3.jpg?eI2IjrDMn6f4NQmKfItS7jlLIqP1d5dbksuAffb8AZUhEn1leBR_vyGcD9tc4MFfYR7EqlLadHdfFN97oFxZfyhu17LVKPrtiRIyivPiMaPH8-We0OikXV5vpNF9KIY",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/600864_c561_3.jpg?iHF6XhmPgBmHAegIAgQxZvWDFRDhjFQgBChw9Lay7whPH6Q6bZ58Yk_MWzBERrKX8pXKVaX_XPbV5VA4GXWzMsBPkNqTorDVzxZGni3gL-lkZFq2fjqrwnRaEAWIpqs",
+                "published_title": "html-css-course",
+                "tracking_id": "Z8Y3koGNQBSNfGBc2O9pwA",
+                "headline": "Верстка сайта с нуля, на примере портала о кино КиноМонстр (KinoMonster)",
+                "num_subscribers": 8508,
+                "caption_locales": [],
+                "avg_rating": 4.446429,
+                "avg_rating_recent": 4.443306,
+                "rating": 4.443306,
+                "num_reviews": 1374,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 31,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-b.udemycdn.com/course/50x50/600864_c561_3.jpg?secure=z_D65oofMEDa7IuXdiGDZw%3D%3D%2C1618915620",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/600864_c561_3.jpg?cqu9u6BvgjAjmuz8ANyyDMbcoYDajLUk1h7Zlj9HSdpV8S1z7WVYJ7SEEU1K7d9HRHalhgjs8kGX-jV4eOMQQscIL_RgvPusgxjEsjf8c6DtmNXN-edZ2K7P3sObZOw",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/600864_c561_3.jpg?tMWl1vfbhZ0c-YQauo0Yk0ubmjbgmun-G1Y8NiPw4MRDUoyq8z-rPMKzE4bHzz8j8IgVDNsNfQBlHE1grFnHUhxNv8YO7-ZpoZjbYnTF1bsA7XpAjjpqhCVQM289pUo",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/600864_c561_3.jpg?d_ukE5TAvP8z7OilZdhmpkJHl9h1xdpqQ3rcY5GrjTyjZsSolLdAkWgw9WR3n6m-UDXSHxl95ceDfbpx8Jch_WXST_g3kupQXtUm5hgY4COqk-Ke6zMQWjXZ_yr4THc",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2015-09-02T21:29:29Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2016-01-13T01:57:26Z",
+                "objectives_summary": [
+                    "Научитесь создавать верстку сайтов на HTML и CSS",
+                    "Научитесь создавать адаптивную верстку под мобильные устройства, планшеты, десткопы",
+                    "Научитесь работать с Sublime Text 3 и плагинами"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2020-11-10",
+                "preview_url": "/course/600864/preview/",
+                "learn_url": "/course/html-css-course/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "4,5 total hours",
+                "content_info_short": "4,5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "display_name": "HTML",
+                        "topic_channel_url": "/topic/html/",
+                        "id": 6148,
+                        "tracking_object_type": "cl",
+                        "url": "/topic/html/",
+                        "title": "HTML"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1976292,
+                "title": "Веб разработка - с нуля до профессионала. Full Stack",
+                "url": "/course/web-full-stack/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 27030988,
+                        "url": "/user/u_ra/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27030988_ccd9.jpg?UAUshO_tgxXSHSLEdb1UZ3_3O63lwcOXgHR48lJ2na8sDie7uEOtOBom3lJ4zrSOQtfGKhZZ_JRX6ZYDnoW1W3RScVfWKZFH_0dIeIpYnDV_zBqKvAj30KZ1Sg",
+                        "display_name": "YouRa Allakhverdov",
+                        "name": "YouRa",
+                        "_class": "user",
+                        "job_title": "Mobile & Web developer",
+                        "initials": "YA",
+                        "title": "YouRa Allakhverdov",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27030988_ccd9.jpg?-yvxkBFwHgDdLt9N9D2BUuCQI_jKFdpHLn8IZ-Y2bpSSoJYp6D9E87uhU2ydmUa_XuJWj_YvLlGYfHkSlK0rsy--17qupcgBXZCLK2eaAfMOzu0eNJdygMIryNOX"
+                    }
+                ],
+                "image_125_H": "https://img-b.udemycdn.com/course/125_H/1976292_29c9.jpg?secure=BiN6I1JzVbOUi86JPcq5gg%3D%3D%2C1618908275",
+                "image_240x135": "https://img-b.udemycdn.com/course/240x135/1976292_29c9.jpg?secure=b1_3qUFBast2IDEHN92jZg%3D%3D%2C1618908275",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/1976292_29c9.jpg?zkYdlScLJqA2pd7i9WNZcL7hri_Sf1NQnlawDnm0Z4jK5rmBxVlqWiY0B9VpTICo-DTQ4wLZq4cQrvkNtOSkeKaOD7DwWyk-aSYQbKOEZCffGZMngNHL0ufHOWmukw",
+                "published_title": "web-full-stack",
+                "tracking_id": "GLWVGiV1SN-0hj4Nc5QGXQ",
+                "headline": "Web - HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, MySQL, Python",
+                "num_subscribers": 5157,
+                "caption_locales": [],
+                "avg_rating": 4.5252523,
+                "avg_rating_recent": 4.5617366,
+                "rating": 4.5617366,
+                "num_reviews": 1348,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 238,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/1976292_29c9.jpg?aknZjn9WhDJVVYxhWL9XqKUujpEU9I2DlC6ejjsXm3TcuPB2gmobiA8vFK__C7HK4u-qrCrzrTtEp9BtYD-jh6TV9QQC9KvtOdn74L_KBRQuXlfuXMBKkSQ-2GU",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/1976292_29c9.jpg?TvK4IAJQ593RJ7Pr6v_rLq_nyfu6ipe3W46CQzrwRxu52VET-GTpAjpdMIYr5InBrqodx0zqGAZBVp7ZBdgaTcGP8gcB4q5-ljg85ppnpTYDTNoCD0UXkrgodICRjw",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/1976292_29c9.jpg?Yc5_9TXUkVwGMww3-fb5PLtF4JRbwfBExkgO46kmTSlJ0reeqWVPJ3fXmBXCMTq62zpanpW7vKpT6aJrRnnIkqlUzYv7YXuEr1NLaTPLeetd9QsCMqW6j3tGNUMn-A",
+                "image_750x422": "https://img-b.udemycdn.com/course/750x422/1976292_29c9.jpg?secure=fLB1OALp_Wn32cNs87Yd5g%3D%3D%2C1618908275",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2018-10-19T07:49:12Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-10-24T16:52:32Z",
+                "objectives_summary": [
+                    "Изучите обе стороны Web разработки - frontend и backend",
+                    "Научитесь создавать веб страницы при помощи языка разметки HTML",
+                    "Научитесь стилизовать сайты при помощи CSS"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-03-14",
+                "preview_url": "/course/1976292/preview/",
+                "learn_url": "/course/web-full-stack/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 33,5 ч",
+                "content_info_short": "33,5 ч",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "display_name": "Веб-разработка",
+                        "topic_channel_url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "url": "/topic/web-development/",
+                        "title": "Веб-разработка"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2438836,
+                "title": "Программирование на C#: от новичка до специалиста",
+                "url": "/course/csharp-ru/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 30142616,
+                        "display_name": "Илья Фофанов",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/30142616_12b2.jpg?secure=4MA8jbbfv14H4ALrO8EN4w%3D%3D%2C1618881446",
+                        "url": "/user/eliasfofanovru/",
+                        "name": "Илья",
+                        "_class": "user",
+                        "job_title": "Инженер-программист, организитор митапов MskDotNet",
+                        "initials": "",
+                        "title": "Илья Фофанов",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/30142616_12b2.jpg?secure=w01lemRDHLsNoBjiGt7qWg%3D%3D%2C1618881446"
+                    },
+                    {
+                        "id": 100084786,
+                        "display_name": "DevSchool • Progressive Training Solutions",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/100084786_c788.jpg?T2KzBdrTk2yZTfTS9JYjjGU7OcZyr6NVL-k34SlQFx-39FcAFZU9ypEXhjhoUcG0g55DRagcb8By_VY9zEsi7624dmeYPUxvhMAYTXf-YIehbMbaNMYtlGXG-uo",
+                        "url": "/user/devschool/",
+                        "name": "DevSchool",
+                        "_class": "user",
+                        "job_title": "Best Courses in IT & Software Development",
+                        "initials": "D ",
+                        "title": "DevSchool • Progressive Training Solutions",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/100084786_c788.jpg?secure=VNtJ87SzrSjuWL3GRLdwOw%3D%3D%2C1618881446"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/2438836_081e.jpg?mKdAhZ78gJGU2DWW1t-LRx8csMP7iljqADuJ1mg_LfAIPVHm0LdY86UlvTsMmn1J6e0Z043TJQb2dHgkf044baBtT_OZjebuLmC9TfLtHm-TcQgvpe9P74h_paA",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/2438836_081e.jpg?vkXWPFSVea7kdOuiQUjV0JaRcIGcIVaY_jbWGgSzd0M39JOVSTE859e4VcVyHhZXz9pyPITmbmuS_XpWP7i5bqxwwdBS7q7tguJ43VxC92Pw8nyAvIZRBqVRP3nBZQ",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-b.udemycdn.com/course/480x270/2438836_081e.jpg?secure=hahfdL3mSQPqbkOQ5bQN5w%3D%3D%2C1618881446",
+                "published_title": "csharp-ru",
+                "tracking_id": "N70OaRcNQyyCDHUsWwJprw",
+                "headline": "Изучите C# и платформу .NET, включая .NET Core и начните практиковать объектно-ориентированное программирование (ООП).",
+                "num_subscribers": 3435,
+                "caption_locales": [],
+                "avg_rating": 4.658019,
+                "avg_rating_recent": 4.6585903,
+                "rating": 4.6585903,
+                "num_reviews": 1248,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 120,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/2438836_081e.jpg?ZV6Y-lt9K7Td4tOVaf-wHlVHPx86e5wLwHxAKrZLhQMVsZ-Fu64hPBPDUxE9v4KOUEJBPf89704Z50jn2N93LBUFZOyzfzTzI2qgJMVsw830dBdcVsaixmh7sIE",
+                "image_100x100": "https://img-b.udemycdn.com/course/100x100/2438836_081e.jpg?secure=3r1vAfrb22vEpn4S2HOAgQ%3D%3D%2C1618881446",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/2438836_081e.jpg?qEBeVLFRs89NQMR5B73uduM8gB2p3Uwvjnb50kS1JW1sqemhb_gQo2gEtRtB_kfRuFPHH8W8sJE4h1AQac7LaSYht1KFMl_fmKSZI2D9V9q-7jc631-xsZ9cwZug7Q",
+                "image_750x422": "https://img-b.udemycdn.com/course/750x422/2438836_081e.jpg?secure=pJux2b_tu_4Yx42A3hRE-w%3D%3D%2C1618881446",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "Russian",
+                    "locale": "ru_RU",
+                    "_class": "locale",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2019-07-01T15:54:24Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-08-07T22:59:25Z",
+                "objectives_summary": [
+                    "Как устроена платформа .NET и .NET Core",
+                    "Основные типы данных в C#",
+                    "Управление потоком исполнения программы: циклы, условия"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2020-08-17",
+                "preview_url": "/course/2438836/preview/",
+                "learn_url": "/course/csharp-ru/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "20,5 total hours",
+                "content_info_short": "20,5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/c-sharp/",
+                        "topic_channel_url": "/topic/c-sharp/",
+                        "id": 4904,
+                        "tracking_object_type": "cl",
+                        "display_name": "C#",
+                        "title": "C#"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1827460,
+                "title": "Java. От простого к сложному.",
+                "url": "/course/java-simple2advanced/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 20431544,
+                        "url": "/user/oleksandr-vasko/",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/20431544_64e9_2.jpg?0V9-SgwFLip2x0nBieO6jhC8IJM4ezDG_ddYwXQKqD1oRHAfQ0DB24RS-ApS-x8VdFrnHKfVBUceOGw6RQIfi0mH40A9mQDDH8lc5P1c6KcRZLUKHkZtbCY2TCrN",
+                        "display_name": "Aleksandr Vasko",
+                        "name": "Aleksandr",
+                        "_class": "user",
+                        "job_title": "Java разработчик.",
+                        "initials": "AV",
+                        "title": "Aleksandr Vasko",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/20431544_64e9_2.jpg?CM1THCPzz3Juw79jk3oCm3Yc7_4JJv41tuE7sXUkSjbe_JTlvGFX3oxTSL7PyROtvQGaA0uwHejbPVjSmPVOIG58UHlmaEL_GKrENEB6n_U4PvdeoY8gdytiyN-garc"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/1827460_181d.jpg?huPY-EIoBReze8dMrMn0GyfCuVt5xzscITZX85uOhMjWrch7r2nOGPfrz12XsJiov-HALyDILcgm_9jkL722DFYMTfMy42N24wQ96PRhowRo3HvwuAGQGbuqeVE",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/1827460_181d.jpg?r7xGPmkit93_7JKAo86VFvHoIyOMKFF-7uvX8U1Q_f7J79lzrcEdhLoMoPbQamZlhQNFJpIfnWosDs_IGCe-uqBSMgpuBM8BT_-NE3DxE1UXPSMrciW6AbbPGDlVcg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/1827460_181d.jpg?CcxpbotB9aX9BOLouzHdixwMXPi7SlXZ6toXyOtoJu6GaXI9Yx299-9Uzzi65StKt6mXDEBgsV4iqq9ypSV1-mA4L0VbojOqyswdKw2wSYTF1x-Iz12kw4LKPsivkA",
+                "published_title": "java-simple2advanced",
+                "tracking_id": "wxKlHZw4R0ayOa3kLZGSqg",
+                "headline": "Научитесь программировать на Java.",
+                "num_subscribers": 3816,
+                "caption_locales": [],
+                "avg_rating": 4.783784,
+                "avg_rating_recent": 4.7560134,
+                "rating": 4.7560134,
+                "num_reviews": 1229,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 106,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-b.udemycdn.com/course/50x50/1827460_181d.jpg?secure=udhNvrwIBcGVCu-mzypTTQ%3D%3D%2C1618908275",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/1827460_181d.jpg?QVoDtF-t2UoXn7YVwb-ariXLVuxZEQLZdzQPKAtlLoiGoX2jomF5JHgqy4waCN8152C3V79K7ZS7kHdoj8uVmwFu5TSoHJxAg7k164rBqaxvKx6WRlaV9KEeGKvIRw",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/1827460_181d.jpg?wvUXAfZVoMKMQ_cWKvFBzGagk58ZqjEJB7mBBdS6sITK2lL7hh7HIi8SOGH6m9SQ8k41QmcYwChyy9shXIMEN3FDGsjaoxTN7msLZDDSG-ENXNhJknQ9svCf3FM96A",
+                "image_750x422": "https://img-b.udemycdn.com/course/750x422/1827460_181d.jpg?secure=8Hz8zUC0xQrag7TZ00yWXw%3D%3D%2C1618908275",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2018-07-29T20:28:18Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-08-07T12:07:24Z",
+                "objectives_summary": [
+                    "После изучения материала данного курса студенты будут уметь программировать на языке Java на уровне, достаточном для самостоятельной разработки приложений и поиска своей первой работы в данной сфере. Те кто уже имел предварительный опыт программирования на других языках, смогут освоить концепции и практики используемые в языке Java. Внимание, курс доступен в FullHD формате. При первом запуске убедитесь что в правом нижнем углу у Вас в настройках выбран параметр 1080."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2019-04-22",
+                "preview_url": "/course/1827460/preview/",
+                "learn_url": "/course/java-simple2advanced/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 33,5 ч",
+                "content_info_short": "33,5 ч",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "tracking_object_type": "cl",
+                        "topic_channel_url": "/topic/java/",
+                        "display_name": "Java",
+                        "id": 6336,
+                        "url": "/topic/java/",
+                        "title": "Java"
+                    },
+                    "category": {
+                        "tracking_object_type": "cat",
+                        "id": 288,
+                        "url": "/courses/development/",
+                        "title": "Разработка"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2417542,
+                "title": "Современный JavaScript + Vue с нуля на реальных проектах.",
+                "url": "/course/modern-javascript-from-beginning/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 36659036,
+                        "display_name": "Denys Mescheryakov",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/36659036_5480_2.jpg?VgYpcro8fw4jvuzPCsYUm6tzf3F0whmGX_7xPHhPlq0VKra9IFs_FlWFEZQxGG9GSCxFToaoJ9PV7sIl2Ch6dEk2T27HnJUVCvDtF0gO3_cUHYapEcx3w6ui5YKb",
+                        "url": "/user/denys-mescheryakov/",
+                        "name": "Denys",
+                        "_class": "user",
+                        "job_title": "JavaScript Developer",
+                        "initials": "DM",
+                        "title": "Denys Mescheryakov",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/36659036_5480_2.jpg?wUIWx6VAbH2Ba0OO0yhISZNZwoLIJwfBAG_CriAde3g0UJ2519-tx8qX_aCrnoFHtr3zbZAb99pit7Fpb8PZNTaTBis_lgS-qCiB0E1U0w31MJ4meLSWlz8rUQIEU9A"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/2417542_6387.jpg?LNU3mKsT4XeVZ4Retfr4ii6wYDfGKyOnwpKaxD7horbe9QxKtO9nTSXn34XaoEvkyCYQr0vcMdvKOK1z1VvGE7YpilmwQxJ5oKZa_Cge2IDVaTmuglt6xGdePHA",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/2417542_6387.jpg?SzF64bMi4N41typqoMP2yeK_upu-HrP8iIVA3ZHWM3R1x_H_Go2ZQo9UDGGEGkzE3WErRoOZmwTIHOEcJSUxunFeluTV5EZR2CMvqTP6KzhKYcNxJeXJSt-sVJB0Wg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-b.udemycdn.com/course/480x270/2417542_6387.jpg?secure=Y-l7xzs2JsqarTHggi0GGQ%3D%3D%2C1618914986",
+                "published_title": "modern-javascript-from-beginning",
+                "tracking_id": "F5aKlSoiQbuWaj4o5oGtAQ",
+                "headline": "Курс для начинающих разработчиков. Практика на проектах. Домашние задания. Тесты. ES6+, Vue.js, ООП, AJAX, Webpack, Jest",
+                "num_subscribers": 3683,
+                "caption_locales": [],
+                "avg_rating": 4.698718,
+                "avg_rating_recent": 4.7029376,
+                "rating": 4.7029376,
+                "num_reviews": 1202,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 145,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-a.udemycdn.com/course/50x50/2417542_6387.jpg?Yp8i8EJtjibdsalCx2zgSOFymOnK1P-CKx34055_JDMTo0POnjVfrgzXeSScoX7abD3XN7Pgiiafjf8yEBt0K2j6jl7MEj83LH_b7FkYN2nC9SP2ryiZIhIzSiA",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/2417542_6387.jpg?7c1Z883Y1NkIa2jJWbszHRt_Bj4sRTxb4oGnsHXnOKx7mDMNVYNLPmLesMt9EeF4EWsbhMA4lEa0AUO7DG7C_bZLbbiRuyojbQ-JzXEtPLogqdD98uttq1I8VlqsTw",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/2417542_6387.jpg?sq__RQtBidS4KL6iiVofI4RzHOUho17ht-5rCUAlCYUYVliMEgiJOpzd1RwP3oOX4citWQEjOdu6nqgZBqPoYz9Ohu4nMvfcoNQmU9tWYlFmS-EfhoGjW6TtDCfK9A",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/2417542_6387.jpg?jQ64l9FRafghxsvic8ww1RML7emePvf5cjWv5r5HmpyUnyBcJSSB4XFnWoosLzOHusq0qQGpxGb76uIefmx11N7QEbYbJZLTzWt5ojRnvQcTl8kKUV_nn9NNq72uuw",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2019-06-17T15:31:00Z",
+                "instructional_level": "Все уровни",
+                "instructional_level_simple": "Все уровни",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-08-07T22:31:12Z",
+                "objectives_summary": [
+                    "JavaScript и основы программирования: переменные, логические операторы, if / else, циклы, функции, массивы и т.д",
+                    "Более сложные структуры, такие как this, замыкания, классы, конструкторы, наследование и прототипы",
+                    "Изучим асинхронный JavaScript а именно Event Loop, AJAX, Promises, Async/Await"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-03-19",
+                "preview_url": "/course/2417542/preview/",
+                "learn_url": "/course/modern-javascript-from-beginning/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "44,5 total hours",
+                "content_info_short": "44,5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/javascript/",
+                        "topic_channel_url": "/topic/javascript/",
+                        "id": 6368,
+                        "tracking_object_type": "cl",
+                        "display_name": "JavaScript",
+                        "title": "JavaScript"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2864648,
+                "title": "Node JS. Практический курс. (Mongo, GraphQL, MySQL, Express)",
+                "url": "/course/nodejs-full-guide/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "id": 26838796,
+                        "display_name": "Владилен Минин",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/26838796_5c87_3.jpg?secure=wdzV9QwYF2M1EvW1wqhVBg%3D%3D%2C1618881648",
+                        "url": "/user/vladilen/",
+                        "name": "Владилен",
+                        "_class": "user",
+                        "job_title": "Профессиональный Frontend разработчик и преподаватель",
+                        "initials": "",
+                        "title": "Владилен Минин",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/26838796_5c87_3.jpg?yeil0sf_fklmjJROO2VAmFJGMOUwAI_vAXzWMF_WxEq8Ym-a8IfgTHh3jbNcS9VRcYYVqUG6NMzTKQ_By0ixlL3ZuLLqDyG0ifjOSdN9YUhVNMS_eNyZa3-WlToHnJA"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/2864648_5942_5.jpg?IFJHw3JD9aGSAzsTdbnPtYSdI6LzkShukyheo7O7klZ-tgZyDCIITJBf1WjNbk4WTO-VC6GeJn9XhesdVHN7aGdndglb_gfHjOGD-CYxAFhehsTZbwBVrNXb1ijumQ",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/2864648_5942_5.jpg?TzyEa9PJEmSNiNkF58euLq9nFnZEpc9bpZjk8dkxr8PS8J6mzF7IV-pIsSWW5ZlzKINvKg49EEWn_E5atmZAOq5U6M3PPi89Iu6Y0y1t05kHgKt4gfR-TC5zVOjgn3WO",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/2864648_5942_5.jpg?ihq5r5hyHGZHPTj0N02OeRSyHiGn5ivRDzgOF-pEA2wPKWAHMAObxso9QjmlmvB-EOXaRyNGqj73dw0XH50GE7hLi_PMuwdNg2pgLek3mgYuZYM1gYPVDN7AxCQVcRP_",
+                "published_title": "nodejs-full-guide",
+                "tracking_id": "bBmOEK8DSgaebtXIriKLWw",
+                "headline": "Полный гайд по созданию сайтов и приложений на серверном JavaScript, включая базы данных и создание API",
+                "num_subscribers": 3962,
+                "caption_locales": [],
+                "avg_rating": 4.6005588,
+                "avg_rating_recent": 4.60487,
+                "rating": 4.60487,
+                "num_reviews": 1175,
+                "is_wishlisted": false,
+                "is_saved": false,
+                "num_published_lectures": 103,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-b.udemycdn.com/course/50x50/2864648_5942_5.jpg?secure=eAJaZzzbXTJ9YjTYkRnQhw%3D%3D%2C1618881648",
+                "image_100x100": "https://img-a.udemycdn.com/course/100x100/2864648_5942_5.jpg?xZ1Yu0bWo9tWNIfXORxZvDbKW6Spp5tDsS-vQ0P38zgK6ItSMwaLTwyQq0Z_LzYcrkEePfYC70Nhxa1cy2SoDXo1iiuoltuajbFfCDgobm3D2mT8m3tMilcslILOjhjD",
+                "image_304x171": "https://img-a.udemycdn.com/course/304x171/2864648_5942_5.jpg?qFG44HKuoPizi6W4zTHxFt0fJ95PJPMnXQ2yqwV79yj7mZ2o1gvqWriAMCbQAYx3A_Y-2tYISXhRytj00IzkL4-HhJibfz4xNb1nQFZMqnGs-7QVdSiox6lX_63wOF5L",
+                "image_750x422": "https://img-a.udemycdn.com/course/750x422/2864648_5942_5.jpg?lVqJ8sfDjh2UN8o-12pfN-TNKfJZTENOucG8p0pTYkEPCgrYCsddccgQ4gRclgexYzAfOmtojTSDTg27yKGs2wDQvobvQbA_wsrMbHdnxwmgP196xeXlNr7nzMsCQY2i",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "ru_RU",
+                    "simple_english_title": "Russian",
+                    "title": "Русский",
+                    "english_title": "Russian"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2020-03-11T14:06:35Z",
+                "instructional_level": "Начальный уровень",
+                "instructional_level_simple": "Начальный",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2020-03-14T18:11:34Z",
+                "objectives_summary": [
+                    "Писать серверный JavaScript",
+                    "Всю инфраструктуру NodeJS",
+                    "Создавать REST API"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2020-05-07",
+                "preview_url": "/course/2864648/preview/",
+                "learn_url": "/course/nodejs-full-guide/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "Всего 13,5 ч",
+                "content_info_short": "13,5 ч",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "url": "/topic/nodejs/",
+                        "topic_channel_url": "/topic/nodejs/",
+                        "display_name": "Node.Js",
+                        "tracking_object_type": "cl",
+                        "id": 6928,
+                        "title": "Node.Js"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat",
+                        "title": "Разработка",
+                        "id": 288
+                    }
+                }
+            }
+        ],
+        "remaining_item_count": 343,
+        "url": "/api-2.0/discovery-units/all_courses/?apply_filters=True&category_id=288&fft=&fl=cat&gl_tracking_id=None&is_content_rankable=False&ref_tracking_id=8fCHZ9RQS2yVsJ5127KNPA&sos=pc",
+        "type": "all_courses",
+        "recommendation_params": {
+            "gl_tracking_id": "None",
+            "source_object_count": null,
+            "member_of": null,
+            "ref_tracking_id": "8fCHZ9RQS2yVsJ5127KNPA",
+            "fft": "",
+            "u": null,
+            "is_content_rankable": false,
+            "category_id": 288,
+            "apply_filters": true,
+            "fl": "cat",
+            "sos": "pc"
+        },
+        "url_title": null,
+        "score": 0.0,
+        "available_filters": {},
+        "aggregations": [
+            {
+                "id": "subcategory",
+                "options": [
+                    {
+                        "count": 128,
+                        "value": "Web Development",
+                        "title": "Веб-разработка",
+                        "key": "subcategory"
+                    },
+                    {
+                        "count": 78,
+                        "value": "Programming Languages",
+                        "title": "Языки программирования",
+                        "key": "subcategory"
+                    },
+                    {
+                        "count": 36,
+                        "value": "Mobile Development",
+                        "title": "Разработка мобильных приложений",
+                        "key": "subcategory"
+                    },
+                    {
+                        "count": 27,
+                        "value": "Game Development",
+                        "title": "Разработка игр",
+                        "key": "subcategory"
+                    },
+                    {
+                        "count": 25,
+                        "value": "Data Science",
+                        "title": "Обработка и анализ данных",
+                        "key": "subcategory"
+                    },
+                    {
+                        "count": 23,
+                        "value": "Software Engineering",
+                        "title": "Инженерия разработки ПО",
+                        "key": "subcategory"
+                    },
+                    {
+                        "count": 19,
+                        "value": "Software Testing",
+                        "title": "Тестирование программного обеспечения",
+                        "key": "subcategory"
+                    },
+                    {
+                        "count": 12,
+                        "value": "Development Tools",
+                        "title": "Инструменты разработки",
+                        "key": "subcategory"
+                    },
+                    {
+                        "count": 9,
+                        "value": "Database Design & Development",
+                        "title": "Проектирование и разработка баз данных",
+                        "key": "subcategory"
+                    },
+                    {
+                        "count": 1,
+                        "value": "IT Certification",
+                        "title": "Сертификация ИТ",
+                        "key": "subcategory"
+                    }
+                ],
+                "key": "subcategory",
+                "title": "Подкатегория"
+            },
+            {
+                "open": true,
+                "all_title": "Все уровни",
+                "key": "instructional_level",
+                "id": "instructional_level",
+                "options": [
+                    {
+                        "count": 172,
+                        "value": "beginner",
+                        "title": "Начальный",
+                        "key": "instructional_level"
+                    },
+                    {
+                        "count": 118,
+                        "value": "all",
+                        "title": "Все уровни",
+                        "key": "instructional_level"
+                    },
+                    {
+                        "count": 56,
+                        "value": "intermediate",
+                        "title": "Средний",
+                        "key": "instructional_level"
+                    },
+                    {
+                        "count": 13,
+                        "value": "expert",
+                        "title": "Профессиональный",
+                        "key": "instructional_level"
+                    }
+                ],
+                "title": "Уровень"
+            },
+            {
+                "open": true,
+                "all_title": "Все языки",
+                "key": "language",
+                "id": "language",
+                "options": [
+                    {
+                        "count": 10000,
+                        "value": "en",
+                        "title": "English",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 2356,
+                        "value": "pt",
+                        "title": "Português",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1883,
+                        "value": "es",
+                        "title": "Español",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1362,
+                        "value": "tr",
+                        "title": "Türkçe",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 737,
+                        "value": "fr",
+                        "title": "Français",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 643,
+                        "value": "zh",
+                        "title": "中文",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 505,
+                        "value": "ja",
+                        "title": "日本語",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 468,
+                        "value": "de",
+                        "title": "Deutsch",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 424,
+                        "value": "ar",
+                        "title": "العربية",
+                        "key": "lang"
+                    },
+                    {
+                        "key": "lang",
+                        "count": 359,
+                        "value": "ru",
+                        "title": "Русский",
+                        "selected": true
+                    },
+                    {
+                        "count": 305,
+                        "value": "pl",
+                        "title": "Polski",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 242,
+                        "value": "it",
+                        "title": "Italiano",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 221,
+                        "value": "id",
+                        "title": "Bahasa Indonesia",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 95,
+                        "value": "hi",
+                        "title": "हिन्दी",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 95,
+                        "value": "ko",
+                        "title": "한국어",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 84,
+                        "value": "th",
+                        "title": "ภาษาไทย",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 61,
+                        "value": "ur",
+                        "title": "اردو",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 31,
+                        "value": "vi",
+                        "title": "Tiếng Việt",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 19,
+                        "value": "ro",
+                        "title": "Română",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 18,
+                        "value": "te",
+                        "title": "Telugu",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 15,
+                        "value": "ta",
+                        "title": "தமிழ்",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 10,
+                        "value": "nl",
+                        "title": "Nederlands",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 9,
+                        "value": "fa",
+                        "title": "فارسی",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 8,
+                        "value": "az",
+                        "title": "Azərbaycan dili",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 8,
+                        "value": "he",
+                        "title": "‏עברית‏",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 6,
+                        "value": "bn",
+                        "title": "Bangla",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 6,
+                        "value": "ml",
+                        "title": "Malayāḷam",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 5,
+                        "value": "el",
+                        "title": "Ελληνικά",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 3,
+                        "value": "ne",
+                        "title": "नेपाली",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 2,
+                        "value": "ca",
+                        "title": "Català",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 2,
+                        "value": "mr",
+                        "title": "मराठी",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 2,
+                        "value": "my",
+                        "title": "မြန်မာဘာသာ",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 2,
+                        "value": "uk",
+                        "title": "Українська",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 2,
+                        "value": "uz",
+                        "title": "O'zbek",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1,
+                        "value": "cs",
+                        "title": "Čeština",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1,
+                        "value": "fi",
+                        "title": "Suomi",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1,
+                        "value": "hr",
+                        "title": "Hrvatski",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1,
+                        "value": "hu",
+                        "title": "Magyar",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1,
+                        "value": "ka",
+                        "title": "ქართული",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1,
+                        "value": "ps",
+                        "title": "پښتو",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1,
+                        "value": "so",
+                        "title": "Soomaaliga",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1,
+                        "value": "sr",
+                        "title": "Српски",
+                        "key": "lang"
+                    },
+                    {
+                        "count": 1,
+                        "value": "sv",
+                        "title": "Svenska",
+                        "key": "lang"
+                    }
+                ],
+                "title": "Язык"
+            },
+            {
+                "open": true,
+                "all_title": "Все цены",
+                "key": "price",
+                "id": "price",
+                "options": [
+                    {
+                        "count": 328,
+                        "value": "price-paid",
+                        "title": "Платные",
+                        "key": "price"
+                    },
+                    {
+                        "count": 31,
+                        "value": "price-free",
+                        "title": "Бесплатно",
+                        "key": "price"
+                    }
+                ],
+                "title": "Цена"
+            },
+            {
+                "key": "features",
+                "options": [
+                    {
+                        "is_feature": true,
+                        "count": 3,
+                        "value": "true",
+                        "title": "Субтитры",
+                        "key": "has_closed_caption"
+                    },
+                    {
+                        "is_feature": true,
+                        "count": 61,
+                        "value": "true",
+                        "title": "Тесты",
+                        "key": "has_simple_quiz"
+                    },
+                    {
+                        "is_feature": true,
+                        "count": 13,
+                        "value": "true",
+                        "title": "Упражнения по написанию кода",
+                        "key": "has_coding_exercises"
+                    },
+                    {
+                        "is_feature": true,
+                        "count": 12,
+                        "value": "true",
+                        "title": "Практические тесты",
+                        "key": "has_practice_test"
+                    }
+                ],
+                "title": "Особенности",
+                "id": "features"
+            },
+            {
+                "options": [
+                    {
+                        "count": 146,
+                        "value": "4.5",
+                        "title": "4,5 и выше",
+                        "key": "ratings"
+                    },
+                    {
+                        "count": 258,
+                        "value": "4.0",
+                        "title": "4,0 и выше",
+                        "key": "ratings"
+                    },
+                    {
+                        "count": 303,
+                        "value": "3.5",
+                        "title": "3,5 и выше",
+                        "key": "ratings"
+                    },
+                    {
+                        "count": 317,
+                        "value": "3.0",
+                        "title": "3,0 и выше",
+                        "key": "ratings"
+                    }
+                ],
+                "key": "ratings",
+                "all_title": "Рейтинг",
+                "title": "Рейтинг",
+                "id": "ratings"
+            },
+            {
+                "options": [
+                    {
+                        "count": 103,
+                        "value": "short",
+                        "title": "0–3 часа",
+                        "key": "duration"
+                    },
+                    {
+                        "count": 104,
+                        "value": "medium",
+                        "title": "3–6 часов",
+                        "key": "duration"
+                    },
+                    {
+                        "count": 106,
+                        "value": "long",
+                        "title": "6–17 часов",
+                        "key": "duration"
+                    },
+                    {
+                        "count": 46,
+                        "value": "extraLong",
+                        "title": "17+ часов",
+                        "key": "duration"
+                    }
+                ],
+                "key": "duration",
+                "all_title": "",
+                "title": "Длительность видео",
+                "id": "duration"
+            },
+            {
+                "key": "closed_captions",
+                "options": [
+                    {
+                        "count": 3,
+                        "value": "ru",
+                        "title": "Русский",
+                        "key": "closed_captions"
+                    },
+                    {
+                        "count": 1,
+                        "value": "de",
+                        "title": "Deutsch",
+                        "key": "closed_captions"
+                    },
+                    {
+                        "count": 1,
+                        "value": "en",
+                        "title": "English",
+                        "key": "closed_captions"
+                    },
+                    {
+                        "count": 1,
+                        "value": "es",
+                        "title": "Español",
+                        "key": "closed_captions"
+                    },
+                    {
+                        "count": 1,
+                        "value": "fr",
+                        "title": "Français",
+                        "key": "closed_captions"
+                    },
+                    {
+                        "count": 1,
+                        "value": "it",
+                        "title": "Italiano",
+                        "key": "closed_captions"
+                    },
+                    {
+                        "count": 1,
+                        "value": "ko",
+                        "title": "한국어",
+                        "key": "closed_captions"
+                    },
+                    {
+                        "count": 1,
+                        "value": "pl",
+                        "title": "Polski",
+                        "key": "closed_captions"
+                    },
+                    {
+                        "count": 1,
+                        "value": "pt",
+                        "title": "Português",
+                        "key": "closed_captions"
+                    },
+                    {
+                        "count": 1,
+                        "value": "zh",
+                        "title": "中文",
+                        "key": "closed_captions"
+                    }
+                ],
+                "title": "Субтитры",
+                "id": "closed_captions"
+            }
+        ],
+        "course_labels": [
+            {
+                "_class": "course_label",
+                "id": 7380,
+                "title": "Python",
+                "display_name": "Python",
+                "doc_count": 27
+            },
+            {
+                "_class": "course_label",
+                "id": 6336,
+                "title": "Java",
+                "display_name": "Java",
+                "doc_count": 26
+            },
+            {
+                "_class": "course_label",
+                "id": 6368,
+                "title": "JavaScript",
+                "display_name": "JavaScript",
+                "doc_count": 21
+            },
+            {
+                "_class": "course_label",
+                "id": 8452,
+                "title": "WordPress",
+                "display_name": "WordPress",
+                "doc_count": 16
+            },
+            {
+                "_class": "course_label",
+                "id": 4904,
+                "title": "C#",
+                "display_name": "C#",
+                "doc_count": 14
+            },
+            {
+                "_class": "course_label",
+                "id": 8322,
+                "title": "Веб-разработка",
+                "display_name": "Web Development",
+                "doc_count": 13
+            },
+            {
+                "_class": "course_label",
+                "id": 6148,
+                "title": "HTML",
+                "display_name": "HTML",
+                "doc_count": 11
+            },
+            {
+                "_class": "course_label",
+                "id": 7956,
+                "title": "Swift",
+                "display_name": "Swift",
+                "doc_count": 11
+            },
+            {
+                "_class": "course_label",
+                "id": 8154,
+                "title": "Unity",
+                "display_name": "Unity",
+                "doc_count": 11
+            },
+            {
+                "_class": "course_label",
+                "id": 6292,
+                "title": "Разработка на iOS",
+                "display_name": "iOS Development",
+                "doc_count": 10
+            },
+            {
+                "_class": "course_label",
+                "id": 7450,
+                "title": "React",
+                "display_name": "React",
+                "doc_count": 8
+            },
+            {
+                "_class": "course_label",
+                "id": 7812,
+                "title": "Тестирование программного обеспечения",
+                "display_name": "Software Testing",
+                "doc_count": 8
+            },
+            {
+                "_class": "course_label",
+                "id": 5306,
+                "title": "CSS",
+                "display_name": "CSS",
+                "doc_count": 7
+            },
+            {
+                "_class": "course_label",
+                "id": 7176,
+                "title": "PHP",
+                "display_name": "PHP",
+                "doc_count": 7
+            },
+            {
+                "_class": "course_label",
+                "id": 4470,
+                "title": "Разработка под Android",
+                "display_name": "Android Development",
+                "doc_count": 5
+            },
+            {
+                "_class": "course_label",
+                "id": 5464,
+                "title": "Django",
+                "display_name": "Django",
+                "doc_count": 5
+            },
+            {
+                "_class": "course_label",
+                "id": 7546,
+                "title": "Ruby on Rails",
+                "display_name": "Ruby on Rails",
+                "doc_count": 5
+            },
+            {
+                "_class": "course_label",
+                "id": 9286,
+                "title": "HTML5",
+                "display_name": "HTML5",
+                "doc_count": 5
+            },
+            {
+                "_class": "course_label",
+                "id": 4624,
+                "title": "Искусственный интеллект",
+                "display_name": "Artificial Intelligence",
+                "doc_count": 4
+            },
+            {
+                "_class": "course_label",
+                "id": 4908,
+                "title": "C++",
+                "display_name": "C++",
+                "doc_count": 4
+            },
+            {
+                "_class": "course_label",
+                "id": 6594,
+                "title": "Машинное обучение",
+                "display_name": "Machine Learning",
+                "doc_count": 4
+            },
+            {
+                "_class": "course_label",
+                "id": 7862,
+                "title": "SQL",
+                "display_name": "SQL",
+                "doc_count": 4
+            },
+            {
+                "_class": "course_label",
+                "id": 11778,
+                "title": "Selenium WebDriver",
+                "display_name": "Selenium WebDriver",
+                "doc_count": 4
+            },
+            {
+                "_class": "course_label",
+                "id": 13554,
+                "title": "Kotlin",
+                "display_name": "Kotlin",
+                "doc_count": 4
+            },
+            {
+                "_class": "course_label",
+                "id": 17090,
+                "title": "Автоматизированное тестирование",
+                "display_name": "Automation Testing",
+                "doc_count": 4
+            }
+        ],
+        "sort_options": {
+            "current_sort_option": {
+                "label": "Популярность",
+                "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=1&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=&sort=popularity",
+                "key": "popularity"
+            },
+            "options": [
+                {
+                    "label": "С наивысшим рейтингом",
+                    "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=1&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=&sort=highest-rated",
+                    "key": "highest-rated"
+                },
+                {
+                    "label": "Новинки",
+                    "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=1&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=&sort=newest",
+                    "key": "newest"
+                },
+                {
+                    "label": "Самые дешевые",
+                    "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=1&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=&sort=price-low-to-high",
+                    "key": "price-low-to-high"
+                },
+                {
+                    "label": "Самые дорогие",
+                    "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=1&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=&sort=price-high-to-low",
+                    "key": "price-high-to-low"
+                }
+            ]
+        },
+        "pagination": {
+            "pages": [
+                {
+                    "label": 1,
+                    "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=1&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=",
+                    "selected": true
+                },
+                {
+                    "label": 2,
+                    "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=2&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=",
+                    "selected": false
+                },
+                {
+                    "label": 3,
+                    "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=3&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=",
+                    "selected": false
+                },
+                {
+                    "label": 4,
+                    "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=4&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=",
+                    "selected": false
+                },
+                {
+                    "label": 5,
+                    "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=5&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=",
+                    "selected": false
+                }
+            ],
+            "next": {
+                "label": "Следующий",
+                "url": "/api-2.0/discovery-units/all_courses/?category_id=288&closed_captions=&currency=rub&duration=&fl=cat&instructional_level=&lang=ru&locale=ru_RU&navigation_locale=en_US&p=2&page_size=16&price=&skip_price=true&sos=pc&source_page=category_page&subcategory=&subs_filter_type=",
+                "selected": false
+            },
+            "current_page": 1,
+            "total_page": 23,
+            "total_item_count": 359
+        },
+        "view_type": "default",
+        "member_of": null,
+        "tracking_id": "8fCHZ9RQS2yVsJ5127KNPA",
+        "has_courses_in_ufb": false,
+        "description": "",
+        "subcategory_slug": ""
+    }
+}
