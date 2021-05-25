@@ -1,18 +1,28 @@
-const Py = require('python-shell');
+const {PythonShell} = require('python-shell');
 
 let options = {
   mode: 'text',
   pythonPath: '/home/fidan/Documents/pyProjects/venv/bin/python',
   pythonOptions: ['-u'], // get print results in real-time
   scriptPath: './',
-  args: ['value1','value2']
+  args: ['Верстка сайта. Javascript. Frontend разработчик']
 };
+const a = []
 
-let yahooo = [];
-const ya = Py.PythonShell.run('main.py', options, function (err, results) {
-  if (err) throw err;
-  // results is an array consisting of messages collected during execution
-  console.log('results: %j', results);
-// yahooo.push(results);
-});
-   console.log(ya);
+async function runPython() {
+    const results = await (new Promise((resolve,reject)=> {
+        PythonShell.run('hello_2.py',options, function(err,results) {
+        if(err) reject(err)
+
+        resolve(results)
+        })
+    }))
+    return results
+}
+
+async function pyGet() {
+    const data = await runPython()
+    console.log(data)
+    return data
+}
+pyGet()
